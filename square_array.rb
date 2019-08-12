@@ -9,3 +9,5 @@ def square_array(array)
   end
 
 new_array = square_array(array)
+
+puts new_array
